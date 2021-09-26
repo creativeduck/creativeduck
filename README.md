@@ -5,7 +5,7 @@ But I'm also interested in learning IOS and cross-platforms
 
 ### ✏️ Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-FF2121?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=FF2121"/>
   <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=7F52FF"/> 
 </p>
 
