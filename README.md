@@ -2,7 +2,7 @@
 I'm mobile develpor, mainly using Android   
 But I'm also interested in learning IOS and cross-platforms
 
-
+   
 ### ✏️ Languages
 <p>
   <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=FF2121"/>
@@ -14,3 +14,4 @@ But I'm also interested in learning IOS and cross-platforms
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
+
