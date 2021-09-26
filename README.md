@@ -10,7 +10,7 @@ But I'm also interested in learning IOS and cross-platforms
 
 ### 🚉 Platforms
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=7F52FF"/> 
 </p>
 
 
