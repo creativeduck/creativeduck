@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm mobile develpor, mainly using Android
+I'm mobile develpor, mainly using Android   
 But I'm also interested in learning IOS and cross-platforms
 
 
