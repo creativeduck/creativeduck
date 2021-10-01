@@ -3,7 +3,7 @@
 I'm mobile develpor, mainly using Android   
 But I'm also interested in learning IOS and cross-platforms
 
-   ## Skill 🧑🏻         
+   # Skill 🧑🏻         
    
    ### ✏️ Languages
 
@@ -39,7 +39,7 @@ But I'm also interested in learning IOS and cross-platforms
    + Git / Github : 소스코드를 관리하는 데 사용합니다.   
 
 
-   ## 🚴‍♀️ Project
+   # 🚴‍♀️ Project
    - [MyLED](https://github.com/creativeduck/MyLED)  
    <img src="https://user-images.githubusercontent.com/89892954/135578432-28d54c77-5908-422b-8076-a5193872661e.jpg" width="10%" height="10%" title="untitiled" alt="RubberDuck"></img>   
    아두이노의 블루투스 모듈과 연동하여 LED를 제어할 수 있는 앱입니다.   
