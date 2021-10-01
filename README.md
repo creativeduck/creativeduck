@@ -30,7 +30,7 @@ But I'm also interested in learning IOS and cross-platforms
 
    + Glide : 외부 이미지를 쉽게 설정하기 위해 사용했습니다.
    + SQLite, Room : 데이터베이스 처리를 위해 사용했습니다.   
-   + ExoPlayer2 : 커스텀 비디오 플레이어를 만들기 위해 사용했습니다.
+   + ExoPlayer2 : 커스텀 비디오 플레이어를 만들기 위해 사용했습니다.   
    + [JSON](https://kmight0518.tistory.com/41), [VOLLEY](https://kmight0518.tistory.com/42), [GSON](https://kmight0518.tistory.com/43) : 웹 API를 통해 데이터를 가져올 때 사용했습니다.   
    + DiffUtil : 데이터 갱신을 더 효율적으로 하기 위해 사용했습니다.
 
@@ -40,10 +40,9 @@ But I'm also interested in learning IOS and cross-platforms
 
 
    ## 🚴‍♀️ Project
-   - MyLED   
+   - [MyLED](https://github.com/creativeduck/MyLED)  
    <img src="https://user-images.githubusercontent.com/89892954/135578432-28d54c77-5908-422b-8076-a5193872661e.jpg" width="10%" height="10%" title="untitiled" alt="RubberDuck"></img>   
-   아두이노의 블루투스 모듈과 연동하여 LED를 제어할 수 있는 앱입니다.
-   [블로그](https://kmight0518.tistory.com/3)에 무드등 만드는 법이 나와있으며, 이것과 연동해 다양한 색상의 빛을 제어할 수 있습니다.
-   
+   아두이노의 블루투스 모듈과 연동하여 LED를 제어할 수 있는 앱입니다.   
+   [블로그](https://kmight0518.tistory.com/3)에 무드등 만드는 법이 나와있으며, 이것과 연동해 다양한 색상의 빛을 제어할 수 있습니다.   
    앱 개발에 도전하면서 처음 개발한 앱입니다.
 
