@@ -3,6 +3,7 @@
 I'm mobile develpor, mainly using Android   
 But I'm also interested in learning IOS and cross-platforms
 
+## Skill 🧑🏻   
    
 ### ✏️ Languages
 
@@ -36,3 +37,9 @@ But I'm also interested in learning IOS and cross-platforms
 ### 📗 Tools
 
    + Git / Github : 소스코드를 관리하는 데 사용합니다.   
+
+
+
+## 🚴‍♀️ Project
+
+
