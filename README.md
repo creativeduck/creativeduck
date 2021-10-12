@@ -53,7 +53,7 @@ But I'm also interested in learning IOS and cross-platforms
    + 활동 기간 : 2021.08.12 ~ 2021.12.31   
    + 분야 : Android   
    + 프로젝트   
-   - [카카오 헤어샵 클론코딩](https://github.com/creativeduck/Kakao-hairshop-Clone/blob/master/README.md)  
+   - [카카오 헤어샵 클론코딩](https://github.com/creativeduck/Kakao-hairshop-Clone)  
    다양한 레이아웃 활용을 목표로 카카오 헤어샵 클론코딩을 진행했습니다.
    
    - [Wavve 클론코딩](https://github.com/creativeduck/Wavve-Clone)  
