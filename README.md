@@ -37,6 +37,7 @@ But I'm also interested in learning IOS and cross-platforms
 ### 📗 Tools
 
    + Git / Github : 소스코드를 관리하는 데 사용합니다.   
+   + Slcak / Discode : 다른 분들과 소통하는 데 사용합니다.
 
 
    # 🚴‍♀️ Project
