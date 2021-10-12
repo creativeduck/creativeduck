@@ -48,8 +48,8 @@ But I'm also interested in learning IOS and cross-platforms
    앱 개발에 도전하면서 처음 개발한 앱입니다.
 
 
-  # 🚴‍♀️ Activity
-   ### 📗 SSAC
+  # 🏃 Activity
+   ### 🥬 SSAC
   
    + 활동 기간 : 2021.08.12 ~ 2021.12.31   
    + 분야 : Android   
