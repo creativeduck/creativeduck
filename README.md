@@ -65,8 +65,8 @@ But I'm also interested in learning IOS and cross-platforms
    - [게임 어플 제작](https://github.com/creativeduck/RabbitRun-game)  
    멀티스레드 개념에 대해 공부하면서 진행했습니다.
   
-   - [망고 플레이트 클론코딩]() 
-   멀티스레드 개념에 대해 공부하면서 진행했습니다.
+   - [망고 플레이트 클론코딩](https://github.com/creativeduck/MangoPlate-Clone) 
+    다양한 API를 활용하며 진행했습니다.
    
    
    
