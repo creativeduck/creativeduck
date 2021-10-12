@@ -59,7 +59,7 @@ But I'm also interested in learning IOS and cross-platforms
    - [Wavve 클론코딩](https://github.com/creativeduck/Wavve-Clone)  
    생명주기에 대해 학습하는 걸 중점으로 두면서 진행했습니다.
    
-   - [배달의민족 클론코딩](https://github.com/creativeduck/MyLED)  
+   - [배달의민족 클론코딩](https://github.com/creativeduck/Bamin-Clone)  
    리싸이클러뷰 활용에 집중하며 진행헀습니다.
    
    - [게임 어플 제작](https://github.com/creativeduck/MyLED)  
