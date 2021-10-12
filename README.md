@@ -46,3 +46,26 @@ But I'm also interested in learning IOS and cross-platforms
    [블로그](https://kmight0518.tistory.com/3)에 무드등 만드는 법이 나와있으며, 이것과 연동해 다양한 색상의 빛을 제어할 수 있습니다.   
    앱 개발에 도전하면서 처음 개발한 앱입니다.
 
+
+  # 🚴‍♀️ Activity
+   ### 📗 SSAC
+  
+   + 활동 기간 : 2021.08.12 ~ 2021.12.31   
+   + 분야 : Android   
+   + 프로젝트   
+   - [카카오 헤어샵 클론코딩](https://github.com/creativeduck/MyLED)  
+   다양한 레이아웃 활용을 목표로 카카오 헤어샵 클론코딩을 진행했습니다.
+   
+   - [Wavve 클론코딩](https://github.com/creativeduck/MyLED)  
+   생명주기에 대해 학습하는 걸 중점으로 두면서 진행했습니다.
+   
+   - [배달의민족 클론코딩](https://github.com/creativeduck/MyLED)  
+   리싸이클러뷰 활용에 집중하며 진행헀습니다.
+   
+   - [게임 어플 제작](https://github.com/creativeduck/MyLED)  
+   멀티스레드 개념에 대해 공부하면서 진행했습니다.
+   
+   
+   
+   
+   
