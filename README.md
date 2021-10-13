@@ -2,6 +2,8 @@
 
 I'm mobile develpor, mainly using Android   
 But I'm also interested in learning IOS and cross-platforms
+If you want to see more about me, click this 👇
+[Blog](https://kmight0518.tistory.com/) [Notion](https://www.notion.so/Mobile-Developer-af0b7f4a9a504684966070eec9452b86)
 
    # Skill 🧑🏻         
    
