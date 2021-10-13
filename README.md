@@ -28,7 +28,7 @@ But I'm also interested in learning IOS and cross-platforms
 
 ### 🛠 Library
 
-   + Glide : 외부 이미지를 쉽게 설정하기 위해 사용했습니다.
+   + [Glide](https://kmight0518.tistory.com/51) : 외부 이미지를 쉽게 설정하기 위해 사용했습니다.
    + SQLite, [Room](https://kmight0518.tistory.com/46) : 데이터베이스 처리를 위해 사용했습니다.   
    + ExoPlayer2 : 커스텀 비디오 플레이어를 만들기 위해 사용했습니다.   
    + [JSON](https://kmight0518.tistory.com/41), [VOLLEY](https://kmight0518.tistory.com/42), [GSON](https://kmight0518.tistory.com/43) : 웹 API를 통해 데이터를 가져올 때 사용했습니다.   
