@@ -65,7 +65,7 @@ But I'm also interested in learning IOS and cross-platforms
    - [배달의민족 클론코딩](https://github.com/creativeduck/Bamin-Clone)  
    리싸이클러뷰 활용에 집중하며 진행헀습니다.   
    
-   - [앱 게임 제작](https://github.com/creativeduck/RabbitRun-game)  
+   - [RabbitRun 게임 제작](https://github.com/creativeduck/RabbitRun-game)  
    멀티스레드 방식에 집중하며 진행했습니다.  
   
    - [망고 플레이트 클론코딩](https://github.com/creativeduck/MangoPlate-Clone)    
