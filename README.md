@@ -68,7 +68,7 @@ But I'm also interested in learning IOS and cross-platforms
    - [RabbitRun 게임 제작](https://github.com/creativeduck/RabbitRun-game)  
    멀티스레드 방식에 집중하며 진행했습니다.  
   
-   - [망고 플레이트 클론코딩](https://github.com/creativeduck/MangoPlate-Clone)    
+   - [망고 플레이트 클론코딩](https://github.com/creativeduck/Mango_Plate_Clone)    
     다양한 API를 활용하며 진행했습니다.
    
    
