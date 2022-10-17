@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm software engineer   
-I'm currently interested in learning Spring, SpringBoot
+I'm currently interested in learning Spring, SpringBoot   
 👇 click this, If you want to see more about me!   
 [Blog](https://kmight0518.tistory.com/) [Notion](https://www.notion.so/Mobile-Developer-af0b7f4a9a504684966070eec9452b86)
 
