@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm mobile develpor, mainly using Android   
-But I'm also interested in learning IOS and cross-platforms   
+I'm software engineer   
+I'm currently interested in learning Spring, SpringBoot
 👇 click this, If you want to see more about me!   
 [Blog](https://kmight0518.tistory.com/) [Notion](https://www.notion.so/Mobile-Developer-af0b7f4a9a504684966070eec9452b86)
 
@@ -15,18 +15,14 @@ But I'm also interested in learning IOS and cross-platforms
   <img src="https://img.shields.io/badge/Python-FFCF3F?style=flat-square&logo=Python&logoColor=3770A0"/>   
 </p>   
 
-+ Java: 안드로이드 앱 개발에 사용했으며 현재도 기존 코드를 분석하고 이해하는 데 사용합니다.
-+ Kotlin: 현재 주력으로 안드로이드 앱 개발에 사용하는 언어입니다.   
-+ Python: 알고리즘 및 자료구조 공부를 위해 배웠으며 기본적인 알고리즘 문제를 해결할 수 있습니다.   
++ Java: 현재 스프링부트 프로젝트를 개발할 때 주력으로 사용하고 있는 언어입니다. 또한 안드로이드 앱 개발에 사용했으며 기존 코드를 분석하고 이해하는 데 사용합니다.
++ Kotlin: 안드로이드 앱 개발에 사용하는 언어입니다.
++ C++, Python: 알고리즘 및 자료구조 공부를 위해 배웠으며 기본적인 알고리즘 문제를 해결할 수 있습니다.   
 
 ### 🚉 Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=Android&logoColor=3DDC84"/>
-</p>
-
-+ Android Studio: 주력으로 사용하는 플랫폼입니다.
-
++ SpringBoot: 현재 개발 공부 중인 플랫폼입니다.
++ Android Studio: 이 플랫폼을 사용해 여러 앱을 개발한 경험이 있습니다.
 
 ### 🛠 Library
 
